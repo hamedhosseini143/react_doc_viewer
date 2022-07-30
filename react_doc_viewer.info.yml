@@ -5,4 +5,5 @@ package: other
 core: 8.x
 dependencies:
   - drupal:rest
+version: '1.0.0-beta'
 core_version_requirement: ^8 || ^9
