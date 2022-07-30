@@ -1,0 +1,8 @@
+name: react doc viewer
+type: module
+description: The description test
+package: other
+core: 8.x
+dependencies:
+  - drupal:rest
+core_version_requirement: ^8 || ^9

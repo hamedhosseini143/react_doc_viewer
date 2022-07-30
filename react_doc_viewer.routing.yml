@@ -1,0 +1,7 @@
+react_doc_viewer.example:
+  path: '/rdv/{fid}'
+  defaults:
+    _title_callback: '\Drupal\react_doc_viewer\Controller\ReactDocViewerController::getTitle'
+    _controller: '\Drupal\react_doc_viewer\Controller\ReactDocViewerController::build'
+  requirements:
+    _permission: 'access content'

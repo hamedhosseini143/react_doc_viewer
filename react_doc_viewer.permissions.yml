@@ -1,0 +1,4 @@
+access page file viewer:
+  title: 'access page file viewer'
+  description: 'react doc viewer'
+  restrict access: true

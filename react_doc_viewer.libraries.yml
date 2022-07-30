@@ -1,0 +1,7 @@
+# Custom module library for general purposes.
+react_doc_viewer:
+  js:
+    js/dist/index.js: { preprocess: false }
+  css:
+    component:
+      css/style.css: {}

@@ -1,0 +1,16 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - react_doc_viewer
+    - serialization
+id: react_doc_viewver_rest_resource
+plugin_id: react_doc_viewver_rest_resource
+granularity: resource
+configuration:
+  methods:
+    - GET
+  formats:
+    - json
+  authentication:
+    - cookie
