@@ -1,6 +1,6 @@
 name: react doc viewer
 type: module
-description: The description test
+description: This module is a field formatter for displaying files
 package: other
 core: 8.x
 dependencies:
